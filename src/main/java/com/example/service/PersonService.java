@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 import org.springframework.stereotype.Service;
 
 import com.example.model.Person;
-
+//editing notification email
 @Service
 public class PersonService {
 	ArrayList<Person> persons = new ArrayList<Person>();
